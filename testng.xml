@@ -4,12 +4,7 @@
     <test verbose="2" preserve-order="true" name="APIAutomationFrameworkATB11X_new">
         <classes>
             <class name="org.example.Tests.sample.testIntegration_sample">
-                <methods>
-                    <include name="test_CreateBooking"/>
-                    <include name="test_GetBooking"/>
-                    <include name="test_UpdateBooking"/>
-                    <include name="test_DeleteBooking"/>
-                </methods>
+
             </class>
         </classes>
     </test>
